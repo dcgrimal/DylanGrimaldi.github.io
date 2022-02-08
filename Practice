@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>DMS 321</title>
+</head>
+    
+<body>
+<h1>A Header</h1>
+    <h2>A suub-header</h2>
+<p>
+    HELLO, WORLD!
+</p>
+    <img
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabcbirds.org%2Farticle%2Fmid-atlantic-bird-illness-investigated%2F&psig=AOvVaw125MsqR4N4eVK2Ovrj6YjW&ust=1644429323854000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCR3t_W8PUCFQAAAAAdAAAAABAD" width="400" alt="a bird">
+    <a href="https://www.coolmathgames.com/">a link</a>
+    <div> some text</div>
+</body>
+</html>
